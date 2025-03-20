@@ -1,3 +1,19 @@
+/* - o codigo deve ser executado no windows, pois a funcão Sleep() so funciona no windows
+   - o código deve ser aberto com a codificaçãoo Wastern (ISO 8859-1)
+     para que o set locale funcione adequeadamente.
+
+     código escrito por: João Carlos de Sousa Gurgel Rocha.
+     Curso: Bacharelado em Tecnologia da Informação.
+     componente curricular: Algoritmos e estruturas de dados I.
+     instituição: Universidade Federal do Rual do Semi-árido - UFERSA.
+     campus: Pau dos ferros.
+
+contato: 
+Github - Joaonuvem
+E-mail - joao.carlosdesousagurgelrocha@gmail.com
+
+descrição: O código pede ao usuário o cadastro de sua turma, indicando quantidade de alunos e os seus nomes,
+apó isso ele usa uma função quicksort para os ordenar e aplica a busca biinaria. */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
